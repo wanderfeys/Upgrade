@@ -1,4 +1,4 @@
-import 'package:courseApp/components/cards/ExploreCourseCard.dart';
+import 'package:courseApp/components/cards/explore_course_card.dart';
 import 'package:courseApp/model/course.dart';
 import 'package:flutter/material.dart';
 

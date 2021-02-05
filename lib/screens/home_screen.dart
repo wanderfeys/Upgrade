@@ -1,5 +1,5 @@
-import 'package:courseApp/components/Lists/ExpolreCourseList.dart';
-import 'package:courseApp/components/Lists/RecentCourseList.dart';
+import 'package:courseApp/components/Lists/explore_section_list.dart';
+import 'package:courseApp/components/Lists/recent_section_list.dart';
 import 'package:courseApp/components/sideBarComponents/home_screen_bar.dart';
 import 'package:courseApp/screens/side_bar_screen.dart';
 import 'package:flutter/material.dart';

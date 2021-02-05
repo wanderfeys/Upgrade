@@ -1,5 +1,5 @@
-import 'package:courseApp/model/CertificatesViewer.dart';
-import 'package:courseApp/components/Lists/ContinueWatchingList.dart';
+import 'package:courseApp/model/certificates_viewer.dart';
+import 'package:courseApp/components/Lists/continue_watching_list.dart';
 import 'package:flutter/material.dart';
 import 'package:sliding_up_panel/sliding_up_panel.dart';
 

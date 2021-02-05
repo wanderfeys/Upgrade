@@ -1,5 +1,4 @@
-import 'package:courseApp/components/cards/Completed_card.dart';
-import 'package:courseApp/components/cards/ContinueWatchingCard.dart';
+import 'package:courseApp/components/cards/completed_card.dart';
 import 'package:courseApp/model/course.dart';
 import 'package:flutter/material.dart';
 

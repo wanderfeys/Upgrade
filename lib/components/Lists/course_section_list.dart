@@ -1,4 +1,4 @@
-import 'package:courseApp/components/cards/CourseSectionCard.dart';
+import 'package:courseApp/components/cards/course_section_card.dart';
 import 'package:courseApp/constants.dart';
 import 'package:courseApp/model/course.dart';
 import 'package:flutter/material.dart';

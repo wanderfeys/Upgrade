@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'package:courseApp/constants.dart';
 import 'package:courseApp/model/course.dart';
-import 'package:courseApp/screens/CourseSectionScreen.dart';
+import 'package:courseApp/screens/course_section_screen.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:sliding_up_panel/sliding_up_panel.dart';

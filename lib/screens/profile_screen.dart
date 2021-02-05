@@ -1,10 +1,10 @@
 import 'dart:io';
 
-import 'package:courseApp/components/Lists/ContinueWatchingList.dart';
+import 'package:courseApp/components/Lists/continue_watching_list.dart';
 import 'package:courseApp/components/Lists/completed_list.dart';
-import 'package:courseApp/components/cards/Completed_card.dart';
+import 'package:courseApp/components/cards/completed_card.dart';
 import 'package:courseApp/constants.dart';
-import 'package:courseApp/model/CertificatesViewer.dart';
+import 'package:courseApp/model/certificates_viewer.dart';
 import 'package:courseApp/model/course.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/gestures.dart';
