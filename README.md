@@ -1,2 +1,2 @@
 # Upgrade
-Course app
+Course app UI
